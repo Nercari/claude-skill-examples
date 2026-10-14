@@ -17,7 +17,7 @@
 - Package checks that run in CI (`check.py` → 5/5)
 - Install steps
 
-Packages: ONE SKILL / TESTED SKILL / SKILL PACK (see the Fiverr gig).
+Packages: ONE SKILL / TESTED SKILL / SKILL PACK (Fiverr gig coming soon).
 
 ![Result image: Velocrank Cycle Works fictional shop-reply skill scored 0/5 without skill and 5/5 with skill from measurements/score.py.](docs/assets/result-claude-skill-examples.png)
 
