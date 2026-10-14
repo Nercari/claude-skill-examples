@@ -4,7 +4,6 @@
 
 [![checks](https://github.com/Nercari/claude-skill-examples/actions/workflows/checks.yml/badge.svg)](https://github.com/Nercari/claude-skill-examples/actions/workflows/checks.yml)
 [![Live demo](https://img.shields.io/badge/live%20demo-nercari.github.io-blue)](https://nercari.github.io/claude-skill-examples/)
-[![llms.txt](https://img.shields.io/badge/llms.txt-ready-green)](./llms.txt)
 
 **One repeat task, done the same way every time.** A custom Claude skill (a `SKILL.md` folder) took the same 5 inputs from **0/5 to 5/5** rule pass (`measurements/score.py`).
 
