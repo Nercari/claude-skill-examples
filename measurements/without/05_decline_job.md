@@ -1,0 +1,1 @@
+Hi Tom, thanks for getting in touch. Unfortunately we can't rebuild a cracked carbon fork. A crack near the crown means the structure is compromised, and a repair wouldn't be safe to ride. Please stop riding the bike until the fork is replaced. If you send me the make and model of your bike, I can order a new fork for you.

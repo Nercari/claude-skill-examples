@@ -1,0 +1,37 @@
+{
+ "without": {
+  "passed": 0,
+  "total": 5,
+  "failures": {
+   "01_price_quote": [
+    "sign-off",
+    "channel"
+   ],
+   "02_delay_bad_news": [
+    "sign-off"
+   ],
+   "03_complaint_squeak": [
+    "sign-off",
+    "channel"
+   ],
+   "04_missing_info": [
+    "sign-off",
+    "channel"
+   ],
+   "05_decline_job": [
+    "sign-off"
+   ]
+  }
+ },
+ "with": {
+  "passed": 5,
+  "total": 5,
+  "failures": {
+   "01_price_quote": [],
+   "02_delay_bad_news": [],
+   "03_complaint_squeak": [],
+   "04_missing_info": [],
+   "05_decline_job": []
+  }
+ }
+}

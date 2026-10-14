@@ -1,0 +1,2 @@
+without  0/5 pass  01_price_quote:sign-off,channel; 02_delay_bad_news:sign-off; 03_complaint_squeak:sign-off,channel; 04_missing_info:sign-off,channel; 05_decline_job:sign-off
+with     5/5 pass  

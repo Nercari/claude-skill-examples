@@ -1,0 +1,1 @@
+Hi Priya, sorry, your bike isn't ready yet. The chain we ordered is backordered, and the supplier says it will arrive Tuesday. I'll get it fitted as soon as it's in. If you'd like a loaner bike in the meantime, it's free. There's no charge for the wait either way.
