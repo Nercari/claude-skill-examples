@@ -8,7 +8,7 @@
 
 **One repeat task, done the same way every time.** A custom Claude skill (a `SKILL.md` folder) took the same 5 inputs from **0/5 to 5/5** rule pass (`measurements/score.py`).
 
-**[Hire this on Fiverr →](https://www.fiverr.com/nercari/PLACEHOLDER-claude-skill)** · **[See live demo](https://nercari.github.io/claude-skill-examples/)**
+**Fiverr gigs coming soon** · **[See live demo](https://nercari.github.io/claude-skill-examples/)**
 
 ## What you get
 
