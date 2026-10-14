@@ -7,4 +7,4 @@ I'm sorry about that. If you'd like a loaner bike in the meantime, it's free, an
 Want me to set the loaner aside for you?
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

@@ -9,4 +9,4 @@ The repair is $30 plus the cost of the tube. [CONFIRM: tube price]
 Reply to this email with a day that suits you and I'll confirm the time.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

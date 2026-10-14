@@ -9,4 +9,4 @@ I don't know yet whether the noise is coming from the pads or the rotor. I'd rat
 Bring the bike in any day this week and I'll take a look.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

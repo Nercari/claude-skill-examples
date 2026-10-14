@@ -12,4 +12,4 @@ Here's the breakdown:
 No appointment needed. Just drop it off by Wednesday evening and I'll have it sorted for Thursday.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

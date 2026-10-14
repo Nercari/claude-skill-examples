@@ -5,7 +5,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent; ROOT = HERE.parent
 def rules(body, inp):
     fails = []
-    if not re.search(r"\nDana\s*\nSpoke & Sprocket Bike Repair", body): fails.append("sign-off")
+    if not re.search(r"\nDana\s*\nVelocrank Cycle Works Bike Repair", body): fails.append("sign-off")
     if body.count("!") > 1: fails.append("exclamation")
     if len(re.sub(r"Subject:.*\n", "", body).split()) > 150: fails.append("length")
     if body.lstrip().startswith("Subject:") != ("**Channel:** email" in inp): fails.append("channel")

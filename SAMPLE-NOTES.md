@@ -1,6 +1,6 @@
 # Client reply in your voice: a Claude skill
 
-Sample deliverable for a "custom Claude skill" gig. The business is fictional: **Spoke & Sprocket Bike Repair**, owner Dana Whitfield. All names and prices are invented.
+Sample deliverable for a "custom Claude skill" gig. The business is fictional: **Velocrank Cycle Works Bike Repair**, owner Dana Whitfield. All names and prices are invented.
 
 ## The problem
 
@@ -25,13 +25,13 @@ Outputs below were **written by following the skill, not a live model run**. Eac
 
 | Input | Output |
 |---|---|
-| **Customer (Sam):** hey, my back wheel is wobbly and the brakes squeal. how much to fix and how long? need it for commuting<br><br>**Notes:** wheel true $25, brake pads rear $18 + fit $15, total $58. can do thursday if dropped by wed eve. no appointment needed | Subject: Your wheel and brakes: $58, ready Thursday<br><br>Hi Sam,<br><br>It comes to $58 in total, and I can have it ready Thursday if you drop the bike off by Wednesday evening.<br><br>That's $25 to true the rear wheel, $18 for new rear brake pads and $15 to fit them. The squeal is usually worn pads, so that should sort it.<br><br>No appointment needed, just bring it in.<br><br>Dana<br>Spoke & Sprocket Bike Repair |
+| **Customer (Sam):** hey, my back wheel is wobbly and the brakes squeal. how much to fix and how long? need it for commuting<br><br>**Notes:** wheel true $25, brake pads rear $18 + fit $15, total $58. can do thursday if dropped by wed eve. no appointment needed | Subject: Your wheel and brakes: $58, ready Thursday<br><br>Hi Sam,<br><br>It comes to $58 in total, and I can have it ready Thursday if you drop the bike off by Wednesday evening.<br><br>That's $25 to true the rear wheel, $18 for new rear brake pads and $15 to fit them. The squeal is usually worn pads, so that should sort it.<br><br>No appointment needed, just bring it in.<br><br>Dana<br>Velocrank Cycle Works Bike Repair |
 
 ### Example 2: missing information (`examples/04_missing_info`)
 
 | Input | Output |
 |---|---|
-| **Customer (Lena):** Do you work on e-bikes? I have a hub motor one, front wheel puncture. Also what are your Saturday hours?<br><br>**Notes:** yes puncture on ebike ok, hub motor front wheel ok but takes longer, $30 + tube. saturdays - not sure for this month, check | Subject: Re: E-bike puncture<br><br>Hi Lena,<br><br>Yes, I work on e-bikes, and a front-wheel puncture on a hub motor is fine. It takes a bit longer than a normal wheel because of the motor, but I can do it.<br><br>The labour is $30, plus the cost of the tube.<br><br>Saturday hours: [CONFIRM: Saturday hours for this month]<br><br>Let me know when you'd like to bring it in.<br><br>Dana<br>Spoke & Sprocket Bike Repair |
+| **Customer (Lena):** Do you work on e-bikes? I have a hub motor one, front wheel puncture. Also what are your Saturday hours?<br><br>**Notes:** yes puncture on ebike ok, hub motor front wheel ok but takes longer, $30 + tube. saturdays - not sure for this month, check | Subject: Re: E-bike puncture<br><br>Hi Lena,<br><br>Yes, I work on e-bikes, and a front-wheel puncture on a hub motor is fine. It takes a bit longer than a normal wheel because of the motor, but I can do it.<br><br>The labour is $30, plus the cost of the tube.<br><br>Saturday hours: [CONFIRM: Saturday hours for this month]<br><br>Let me know when you'd like to bring it in.<br><br>Dana<br>Velocrank Cycle Works Bike Repair |
 
 The other cases cover a delay (bad news first), a complaint (no refund promised), and a job the owner declines for safety.
 

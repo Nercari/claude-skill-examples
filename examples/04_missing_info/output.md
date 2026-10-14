@@ -13,4 +13,4 @@ Saturday hours: [CONFIRM: Saturday hours for this month]
 Let me know when you'd like to bring it in.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

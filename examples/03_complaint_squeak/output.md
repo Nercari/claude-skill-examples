@@ -11,4 +11,4 @@ Bring it in any day this week and I'll check it again at no charge. I can't say 
 Just drop it by whenever suits you.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

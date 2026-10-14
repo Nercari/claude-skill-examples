@@ -11,4 +11,4 @@ That's $25 to true the rear wheel, $18 for new rear brake pads and $15 to fit th
 No appointment needed, just bring it in.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

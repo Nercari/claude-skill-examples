@@ -1,0 +1,8 @@
+# Velocrank Cycle Works
+
+> FICTIONAL demo created by Nercari. Velocrank Cycle Works is a bike repair shop used to demonstrate custom Claude skills for quotes and customer replies. Not a real business and not a client result.
+
+## Links
+
+- [Demo page](https://nercari.github.io/claude-skill-examples/)
+- [Source and measurements](https://github.com/Nercari/claude-skill-examples)

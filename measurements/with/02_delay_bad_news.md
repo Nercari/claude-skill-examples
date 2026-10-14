@@ -7,4 +7,4 @@ If you'd like a loaner bike while you wait, it's free, and there's no extra char
 Reply and let me know if you want the loaner.
 
 Dana
-Spoke & Sprocket Bike Repair
+Velocrank Cycle Works Bike Repair

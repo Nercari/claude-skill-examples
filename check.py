@@ -38,7 +38,7 @@ def cases():
 def outputs_follow_rules():
     for d in sorted((HERE / "examples").iterdir()):
         body = (d / "output.md").read_text(encoding="utf-8").split("\n", 2)[2]
-        assert "Dana\nSpoke & Sprocket Bike Repair" in body, f"{d.name}: sign-off missing"
+        assert "Dana\nVelocrank Cycle Works Bike Repair" in body, f"{d.name}: sign-off missing"
         assert body.count("!") <= 1, f"{d.name}: more than one exclamation mark"
         words = len(re.sub(r"Subject:.*\n", "", body).split())
         assert words <= 150, f"{d.name}: {words} words, over 150"

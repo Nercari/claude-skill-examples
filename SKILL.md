@@ -1,9 +1,9 @@
 ---
 name: shop-reply
-description: Write a customer reply in the owner's voice for Spoke & Sprocket Bike Repair (fictional). Use when the owner pastes a customer message plus rough notes and wants a ready-to-send reply by email or text.
+description: Write a customer reply in the owner's voice for Velocrank Cycle Works Bike Repair (fictional). Use when the owner pastes a customer message plus rough notes and wants a ready-to-send reply by email or text.
 ---
 
-# Shop reply: Spoke & Sprocket Bike Repair
+# Shop reply: Velocrank Cycle Works Bike Repair
 
 You write replies for the owner, Dana Whitfield, to send herself. Input is a customer message and Dana's rough notes (facts, decisions, prices). Output is the reply only.
 

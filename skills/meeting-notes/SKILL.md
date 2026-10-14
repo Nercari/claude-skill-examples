@@ -1,8 +1,8 @@
 ---
 name: meeting-notes
-description: Turn raw meeting notes for Larkspur Plumbing (fictional) into the shop's fixed summary template with decisions, action items and open questions. Use when someone pastes rough notes from a team meeting.
+description: Turn raw meeting notes for Quillmere Plumbing (fictional) into the shop's fixed summary template with decisions, action items and open questions. Use when someone pastes rough notes from a team meeting.
 ---
-# Meeting notes to summary (fictional Larkspur Plumbing)
+# Meeting notes to summary (fictional Quillmere Plumbing)
 Output exactly these four sections, in this order, as Markdown H2 headings:
 ## Summary
 (1-2 sentences)
