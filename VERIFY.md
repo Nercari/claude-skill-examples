@@ -9,4 +9,5 @@ The sample's checker and its scorer (the same two CI runs).
 ```
 python3 check.py
 python3 measurements/score.py
+python -m unittest tests.test_merge_gate -q
 ```
